@@ -1,1 +1,3 @@
-Write-Host "Hello World, working with Tags today"
+# Git Version 1.1
+# Making some minor changes to see how if affect the release and tagging of stuff...
+Write-Host "Hello World, working with Tags today, which leads into RELEASES.  Yeah Baby!"
