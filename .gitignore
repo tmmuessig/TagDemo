@@ -7,3 +7,6 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# Upcoming release notes, will be included in the actual Release
+/Releases
