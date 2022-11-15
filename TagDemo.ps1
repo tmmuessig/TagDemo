@@ -1,3 +1,4 @@
 # Git Version 1.1
-# Making some minor changes to see how if affect the release and tagging of stuff...
-Write-Host "Hello World, working with Tags today, which leads into RELEASES.  Yeah Baby!"
+# Demo to pull things from GitRaw and run it
+Write-Host "Hello World." -foregroundColor Green
+Get-Service
